@@ -126,6 +126,13 @@ Preliminary findings:
 - Data augmentation helped in reducing overfitting and improving model generalization.
 - Class imbalance was identified, with some classes having significantly fewer samples.
 - Final model trained on balanced dataset showed improved accuracy across all classes.
+- Model Performance:
+
+   Final Training Accuracy: 85.37%
+   Final Validation Accuracy: 96.85%
+   Final Training Loss: 0.3889
+   Final Validation Loss: 0.1252
+The model shows good performance with validation accuracy over 85% and loss under 0.2.
 
 
 
