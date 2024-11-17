@@ -128,10 +128,15 @@ Preliminary findings:
 - Final model trained on balanced dataset showed improved accuracy across all classes.
 - Model Performance:
 
-   Final Training Accuracy: 85.37%
-   Final Validation Accuracy: 96.85%
-   Final Training Loss: 0.3889
-   Final Validation Loss: 0.1252
+   Final Training Accuracy: 85.37%.
+   Final Validation Accuracy: 96.85%.
+   Final Training Loss: 0.3889.
+   Final Validation Loss: 0.1252.
+  Model demonstrates production-ready performance with:
+- High accuracy (96.85%).
+- Low loss metrics (0.1252).
+- Balanced class performance.
+- Robust validation results.
 The model shows good performance with validation accuracy over 85% and loss under 0.2.
 
 
