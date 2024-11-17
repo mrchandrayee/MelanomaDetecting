@@ -120,7 +120,6 @@ The CNN model consists of:
 4. Follow the notebook cells to execute each step of the pipeline.
 
 ## Results and Findings
-[To be filled after model training and evaluation]
 
 Preliminary findings:
 - Initial model showed signs of overfitting (high training accuracy, lower validation accuracy).
@@ -128,17 +127,7 @@ Preliminary findings:
 - Class imbalance was identified, with some classes having significantly fewer samples.
 - Final model trained on balanced dataset showed improved accuracy across all classes.
 
-## Future Improvements
-- Experiment with different CNN architectures (e.g., ResNet, VGG)
-- Try transfer learning with pre-trained models on larger datasets
-- Collect more real-world data for underrepresented classes
-- Implement cross-validation for more robust evaluation
-- Explore advanced augmentation techniques specific to medical imaging
-- Implement model interpretability techniques (e.g., Grad-CAM) to understand predictions
-- Fine-tune hyperparameters for better performance
-- Implement ensemble methods to combine predictions from multiple models
-- Explore the use of attention mechanisms to focus on relevant image areas
-- Investigate the impact of different image preprocessing techniques
+
 
 ## Contributors
 Chand Rayee
